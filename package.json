@@ -1,0 +1,23 @@
+{
+  "name": "liri-newman",
+  "version": "1.0.0",
+  "description": "first node app",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwin4740/liri-newman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwin4740/liri-newman/issues"
+  },
+  "homepage": "https://github.com/jwin4740/liri-newman#readme",
+  "dependencies": {
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
